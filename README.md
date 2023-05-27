@@ -1,4 +1,4 @@
-# # Zomato_Clone_Poject (On going...)
+# # Zomato_Clone_Poject
 
 In the project directory, An End to End clone of [zomato](https://www.zomato.com/) is making. User can order food online , search for popular restaurants, search for restaurants located nearby, can sort the items by popularity-high to low, delivery rating and can also filter item according to cuisines, cost and ratings. User have to `sign in` or `sign up` before checkout and make payments.
 
